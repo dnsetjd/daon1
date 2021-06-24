@@ -1,0 +1,44 @@
+@import url(common.css);
+
+.w-1{
+    padding-top: 8%;
+width: 80%;}
+.w-1 {margin-left: 10%;}
+.w-1 h2{color: #bdc2ba;font-size: 1.5rem; }
+.w-1 p{font-size: 2rem;font-family:'Dancing script';margin-top: 10px;}
+
+
+.w-2{width: 80%;
+    display: flex; flex-direction: row-reverse;
+    margin-top: 15%;margin-left:3%;}
+.w-2 p{margin-top: 5%;margin-left:9%;line-height: 30px; word-break: keep-all;}
+.w-2 figure{width: 100%;}
+.w-2 figure img {width:700px;}
+
+.w-3{width: 80%;
+    display: flex; flex-direction: row-reverse;
+    margin-top: 10%;margin-left: 3%;}
+.w-3 p{margin-top: 5%;margin-left:9%;line-height: 30px; word-break: keep-all;}
+.w-3 figure{width: 100%;}
+.w-3 figure img {width:700px;}
+
+.w-4{width: 80%;
+    display: flex; flex-direction: row-reverse;
+    margin-top: 10%;margin-left: 3%;}
+.w-4 p{margin-top: 5%;margin-left:9%;line-height: 30px; word-break: keep-all;}
+.w-4 figure{width: 100%;}
+.w-4 figure img {width:700px;}
+
+.w-5{width: 80%;
+    display: flex; flex-direction: row-reverse;
+    margin-top: 10%;margin-left: 3%;}
+.w-5 p{margin-top: 5%;margin-left:9%;line-height: 30px; word-break: keep-all;}
+.w-5 figure{width: 100%;}
+.w-5 figure img {width:700px;}
+
+.w-6{width: 80%;
+    display: flex; flex-direction: row-reverse;
+    margin-top: 10%;margin-left: 3%;}
+.w-6 p{margin-top: 5%;margin-left:9%;line-height: 30px; word-break: keep-all;}
+.w-6 figure{width: 100%;}
+.w-6 figure img {width:700px;}
