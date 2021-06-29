@@ -30,6 +30,69 @@
     width: 100%;
     text-align: center;
     border-radius: 20px;}
+.e-2 ul{margin-top: 1%;}
 
-.e-2 li:nth-of-type(1) label{margin: 0 14px 0 0;}
-.e-2 li:nth-of-type(2) label{}
+.e-2 li:nth-child(1) input{width: 100%;margin-top: 2%;}
+.e-2 li:nth-child(2) input{width: 100%;margin-top: 2%;}
+.e-2 li:nth-child(3) input{width: 30%;margin-top: 2%;}
+
+@media (min-width:360px) and (max-width:768px){
+    main{width: 100%; height: 100vh;}
+    .e-1{position: relative; width: 100%;}
+    .e-2 {opacity: 0.7;}
+    
+    .e-2{
+        background-color: black;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        border:3px solid #a58f65;
+        position: absolute;
+        width: 30%;
+        z-index: 100;
+        left: 50%;top:50%;
+        font-size: 15px; 
+        color: white;
+        transform: translate(-50%,-50%);
+        border-radius: 20px;}
+    .e-2 ul li{
+        list-style: none;}
+    .e-2 li input{
+        border-radius: 10px;
+        margin-top: 7px;}
+    .e-2 li label{
+        width: 550px;}
+    .e-2 h2{
+        background-color: #a58f65;
+        width: 100%;
+        text-align: center;
+        border-radius: 20px;}
+    .e-2 ul{margin-top: 3%;}
+    
+    .e-2 li:nth-child(1) input{width: 100%;margin-top: 2%;}
+    .e-2 li:nth-child(2) input{width: 100%;margin-top: 2%;}
+    .e-2 li:nth-child(3) input{width: 30%;margin-top: 2%;}
+}
+
+@media (min-width:769px) and (max-width:1374px){
+    main{width: 100% ;float: right;}
+
+    .e-1{margin-top: 13%;}
+    .e-5{width: 100%; display: flex; flex-direction: column;}
+    .e-3{width: 100%; background-color: #f8ead6;height: 50vh;}
+    .e-4{width: 100%;}
+    .e-4 figure{width: 100%;}
+    .e-4 figure img {width: 100%;height: 100vh;}
+    .e-3{display: flex; flex-direction: column;justify-content: center;align-items: center;}
+    .e-3 ul li{list-style: none;}
+    .e-3 h2{ color: #a58f65; font-size: 2rem;}
+    .e-3 ul {margin-top: 3%;}
+    .e-3 ul li {font-size: 1rem; }
+    
+    .e-3 li:nth-child(1) input{width: 100%;margin-top: 4%;}
+    .e-3 li:nth-child(2) input{width: 100%;margin-top: 4%;}
+    .e-3 li:nth-child(3) input{width: 100%;margin-top: 4%;}
+    .e-3 li:nth-child(4) input{width: 100%;margin-top: 4%;}
+    .e-3 li:nth-child(5) input{width: 100%;margin-top: 4%;}
+}    

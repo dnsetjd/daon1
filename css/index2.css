@@ -27,6 +27,7 @@
 .q-3 li img{width:100%; margin-left: -3%;}
 .q-3 li{list-style: none;margin-left: 2%;}
 
+
 @media (min-width:360px) and (max-width:768px){
   main{width: 100%;}
     .q-1{width: 100%;display: flex; 
