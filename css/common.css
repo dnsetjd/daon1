@@ -72,9 +72,9 @@ main{width: 91%;margin: 0; padding: 0;margin-right: 0;float: right;}
         list-style: none;font-family: 'bene';
         text-decoration: none;}
     .a-1 .menu .m1:hover{color: white; font-size: 1.0rem;}
-    .a-1 .menu .m2:hover{color: white; font-size: 1.0rem}
-    .a-1 .menu .m3:hover{color: white; font-size: 1.0rem}
-    .a-1 .menu .m4:hover{color: white; font-size: 1.0rem}
+    .a-1 .menu .m2:hover{color: white; font-size: 1.0rem;}
+    .a-1 .menu .m3:hover{color: white; font-size: 1.0rem;}
+    .a-1 .menu .m4:hover{color: white; font-size: 1.0rem;}
 
    .f-1 .book{
         background: #a58f65; 
@@ -173,9 +173,9 @@ main{width: 91%;margin: 0; padding: 0;margin-right: 0;float: right;}
                 list-style: none;font-family: 'bene';
                 text-decoration: none;}
             .a-1 .menu .m1:hover{color: black; font-size: 1.0rem;}
-            .a-1.menu .m2:hover{color:  black; font-size: 1.0rem}
-            .a-1 .menu .m3:hover{color:  black; font-size: 1.0rem}
-            .a-1 .menu .m4:hover{color:  black; font-size: 1.0rem}
+            .a-1.menu .m2:hover{color:  black; font-size: 1.0rem;}
+            .a-1 .menu .m3:hover{color:  black; font-size: 1.0rem;}
+            .a-1 .menu .m4:hover{color:  black; font-size: 1.0rem;}
         
             .f-1 .book{display: none;
                 background: #a58f65; 
@@ -271,9 +271,9 @@ main{width: 91%;margin: 0; padding: 0;margin-right: 0;float: right;}
                     list-style: none;font-family: 'bene';
                     text-decoration: none;}
                 .a-1 .menu .m1:hover{color: black; font-size: 1.0rem;}
-                .a-1 .menu .m2:hover{color:  black; font-size: 1.0rem}
-                .a-1 .menu .m3:hover{color:  black; font-size: 1.0rem}
-                .a-1 .menu .m4:hover{color:  black; font-size: 1.0rem}
+                .a-1 .menu .m2:hover{color:  black; font-size: 1.0rem;}
+                .a-1 .menu .m3:hover{color:  black; font-size: 1.0rem;}
+                .a-1 .menu .m4:hover{color:  black; font-size: 1.0rem;}
             
                 .f-1 .book{
                     background: #a58f65; 
