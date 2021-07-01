@@ -127,7 +127,8 @@ main{width: 91%;margin: 0; padding: 0;margin-right: 0;float: right;}
         
             .a-1:hover{width: 100%;}
         
-            .a-1 article{margin-top:1%;top:0%;left:85%;position: absolute; transform: translate(-85%;); }
+            .a-1 article{margin-top:1%;right:0;left:auto;
+                position: absolute; transform: translate(-85%;); }
         
             .a-1 article h2{display: none;
                 color:#a58f65; font-size: 1px;
@@ -160,10 +161,10 @@ main{width: 91%;margin: 0; padding: 0;margin-right: 0;float: right;}
                 margin:0; padding:0;width: 100%;
                 justify-content: space-around;
                 margin-left: -7%;
-                margin-top: 0.5%;
+                margin-top: 0%;
                 position: static;
-            opacity: 0;}
-            .a-1:hover .menu{opacity: 1;}
+                opacity: 0;}
+            .a-1:hover .menu{opacity: 1; background-color: white; border-radius: 30px;}
             .a-1 .menu li{
                 margin-top: 0px;
                 margin-left: 00%;
@@ -173,7 +174,7 @@ main{width: 91%;margin: 0; padding: 0;margin-right: 0;float: right;}
                 list-style: none;font-family: 'bene';
                 text-decoration: none;}
             .a-1 .menu .m1:hover{color: black; font-size: 1.0rem;}
-            .a-1.menu .m2:hover{color:  black; font-size: 1.0rem;}
+            .a-1 .menu .m2:hover{color:  black; font-size: 1.0rem;}
             .a-1 .menu .m3:hover{color:  black; font-size: 1.0rem;}
             .a-1 .menu .m4:hover{color:  black; font-size: 1.0rem;}
         
@@ -226,7 +227,7 @@ main{width: 91%;margin: 0; padding: 0;margin-right: 0;float: right;}
             
                .a-1:hover{width: 100%;}
             
-                .a-1 article{margin-top:1%;top:0%;left:93%;position: absolute; transform: translate(-93%;); }
+                .a-1 article{margin-top:1%;right:0;left:auto;position: absolute; transform: translate(-93%;); }
             
                 .a-1 article h2{display: none;
                     color:#a58f65; font-size: 1px;

@@ -164,7 +164,6 @@
     }
     main div{position: relative;}
     main > div figure{margin:0; overflow:hidden;}
-    main > div figure video{margin-top: 15%;}
     main div .center{display: none;
         left: 50%;top:50%;
         font-size: 1.5rem; 
