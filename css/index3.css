@@ -56,7 +56,7 @@ width: 80%; margin-left: 5%;}
 
 .w-3 p{margin-top: 5%;margin-left:9%;line-height: 30px; word-break: keep-all;}
 .w-3 figure{width: 100%;}
-.w-3 figure img {width:700px;}
+.w-3 figure img {width:700px;margin-top: 10%;}
 .w-3 figure img:hover{transform: scale(1.1); transition: all 0.3s;}
 
 .w-4{width: 80%;
@@ -122,8 +122,9 @@ width: 80%; margin-left: 5%;}
             to{ transform: translateY(-30%); }   
         }
         .w-1 #s{position:block;}
+        .w-1 svg{display: none;}
         .w-1 svg #sv{
-        font-size: 0.8rem;
+        font-size: 1rem;
         font-family:'Dancing script';
         fill:transparent;
         stroke: black;
@@ -142,7 +143,7 @@ width: 80%; margin-left: 5%;}
         width: 80%;
         display: flex; 
         flex-direction: column-reverse;
-        margin-top: 0%; 
+        margin-top: 10%; 
         margin-left: -1.5%;}
 
     .w-2 p{
@@ -154,7 +155,7 @@ width: 80%; margin-left: 5%;}
         font-size: 0.5rem;}
 
     .w-2 figure{width: 100%;margin-left: 6.5%;}
-    .w-2 figure img {width:100%;;}
+    .w-2 figure img {width:100%;}
     
     .w-3{width: 80%;
         display: flex; 

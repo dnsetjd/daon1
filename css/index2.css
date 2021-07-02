@@ -74,10 +74,7 @@
         width: 100%;
         overflow: hidden;
         margin-top: 5%;}
-    .q-3{width: 100%;
-        display: flex;
-        justify-content: center;
-        align-items: center;}
+    .q-3{width: 100%;}
     .q-3 li img{width:100%; margin-left: -3%;}
     .q-3 li{list-style: none;margin-left: 2%;}
 

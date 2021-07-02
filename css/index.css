@@ -101,7 +101,7 @@
     }
     .o-4 a:last-child{margin-right: 0;}
     .o-4 a img{width: 100%; height: 300px;}
-    .o-3 p{margin-top: 50px; 
+    .o-3 p{margin-top: 10%; 
         text-align: center;
         line-height: 30px;}
 
@@ -217,7 +217,7 @@
 
     main .o-2 h2{
         text-align: center;
-        margin-top: 150px; 
+        margin-top: 10%; 
         color: #a58f65; 
         font-size:35px;}
 
@@ -245,7 +245,7 @@
         font-size: 0; 
         display: flex;
          margin: 0;
-         margin-top: 50px; 
+         margin-top: 5%; 
          justify-content:start;
          width: 100%;
     }
@@ -257,15 +257,17 @@
     }
     .o-4 a:last-child{margin-right: 0;}
     .o-4 a img{width: 80%; height: 300px;}
-    .o-3 p{margin-top: 50px; word-break:keep-all;
+    .o-3 p{margin-top: 5%; 
+        word-break:keep-all;
         text-align: center;
         line-height: 30px;
-    width: 100%;}
+        margin-left: 10%;
+    width: 80%;}
 
 
 
     .o-1{width: 100%;
-        margin-top: 150px;
+        margin-top: 10%;
         background-color:#f3eee6;
         display: flex;
         flex-direction: column-reverse;
