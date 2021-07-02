@@ -112,7 +112,7 @@ width: 80%; margin-left: 5%;}
     .w-1{
         width: 80%;margin-left: 5%;
       }
-        .w-1 h2{
+        .w-1 h2{text-align: center;
             color: #bdc2ba;
             font-size:0.9rem; 
             margin-top: 30%;
