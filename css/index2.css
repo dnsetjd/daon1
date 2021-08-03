@@ -1,11 +1,11 @@
 @import url('./common.css');
 
 .q-1{
+    margin-top: 5%;
     width: 100%;
     display: flex; 
     justify-content: center;
     align-items: center;
-    margin-top: 8%;
 }
 .q-1 h3{margin-top: 3%;}
 .q-1 h3 span{color: #bec2ba; font-size: 1rem;}
@@ -27,16 +27,15 @@
 .q-4 li:nth-of-type(1) strong{margin:0 10px 0 0 ;}
 .q-4 li:nth-of-type(2) strong{margin:0 40px 0 0 ;}
 .q-4 li:nth-of-type(3) strong{margin:0 2px 0 0 ;}
-.q-2{
-    width: 100%;
+.slick{
+    width: 70%;
     overflow: hidden;
-    margin-top: 2%;}
-.q-3{
     display: flex;
     justify-content: center;
-    align-items: center;}
-.q-3 li img{width:100%; margin-left: -3%;}
-.q-3 li{list-style: none;margin-left: 2%;}
+    align-items: center;
+    margin-top: 3%;
+margin-left: 12%;}
+.slickdiv p img{width:100%; margin-left: -3%;}
 
 
 
@@ -70,13 +69,15 @@
     .q-4 li:nth-of-type(1) strong{margin:0 10px 0 0 ;}
     .q-4 li:nth-of-type(2) strong{margin:0 40px 0 0 ;}
     .q-4 li:nth-of-type(3) strong{margin:0 2px 0 0 ;}
-    .q-2{
-        width: 100%;
+    .slick{
+        width: 70%;
         overflow: hidden;
-        margin-top: 5%;}
-    .q-3{width: 100%;}
-    .q-3 li img{width:100%; margin-left: -3%;}
-    .q-3 li{list-style: none;margin-left: 2%;}
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-top: 3%;
+    margin-left: 12%;}
+    .slickdiv p img{width:100%; margin-left: -3%;}
 
 
 }
@@ -103,14 +104,15 @@
     .q-4 li:nth-of-type(2) strong{margin:0 40px 0 0 ;}
     .q-4 li:nth-of-type(3) strong{margin:0 2px 0 0 ;}
     .q-4{margin-top:6.5%; margin-right: -10%;}
-    .q-2{width: 100%;overflow: hidden;
-        margin-top: 5%;}
-    .q-3 li{list-style: none;}
-    .q-3{width: 100%; margin-left: 0%;}
-    .q-3{display: flex;
+    .slick{
+        width: 70%;
+        overflow: hidden;
+        display: flex;
         justify-content: center;
-        align-items: center;}
-    }
+        align-items: center;
+        margin-top: 3%;
+    margin-left: 12%;}
+    .slickdiv p img{width:100%; margin-left: -3%;}
 
 
 
